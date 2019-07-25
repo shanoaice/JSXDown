@@ -13,5 +13,5 @@ const mdText = `# Test h1
 > Test binding - val = { binding }
 `;
 
-ReactDOM.render(<JSXDown mdText={mdText} bindings={{binding: 'Hello!'}} />)
+ReactDOM.render(<JSXDown mdText={mdText} bindings={{binding: 'Hello!'}} />, document.body)
 ```
