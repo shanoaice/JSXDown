@@ -1,0 +1,33 @@
+{
+  "name": "prejsxdown",
+  "version": "1.0.1",
+  "description": "A small, fast markdown parser component for Preact.",
+  "keywords": [
+    "preact",
+    "md",
+    "markdown",
+    "jsx",
+    "component"
+  ],
+  "author": "KsRyY <andy200511@126.com>",
+  "homepage": "https://github.com/KsRyY/JSXDown#readme",
+  "license": "MIT",
+  "main": "src/prejsxdown.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KsRyY/JSXDown.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/KsRyY/JSXDown/issues"
+  }
+}

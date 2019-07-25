@@ -13,7 +13,7 @@
   "author": "KsRyY <andy200511@126.com>",
   "homepage": "https://github.com/KsRyY/JSXDown",
   "license": "MIT",
-  "main": "dist/jsxdown.js",
+  "main": "src/jsxdown.js",
   "files": [
     "lib"
   ],
