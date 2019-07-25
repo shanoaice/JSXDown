@@ -1,6 +1,6 @@
 {
   "name": "jsxdown",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Markdown compiler component for React.js",
   "keywords": [
     "react",
