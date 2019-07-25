@@ -33,11 +33,5 @@
     "react": "^16.8.6",
     "react-jsx-parser": "^1.19.1",
     "snarkdown": "^1.2.2"
-  },
-  "devDependencies": {
-    "@babel/cli": "^7.5.5",
-    "@babel/core": "^7.5.5",
-    "@babel/plugin-transform-react-jsx": "^7.3.0",
-    "parcel-bundler": "^1.12.3"
   }
 }
