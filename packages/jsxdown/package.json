@@ -28,8 +28,8 @@
     "url": "https://github.com/KsRyY/JSXDown/issues"
   },
   "dependencies": {
-    "react": "^16.8.6",
-    "snarkdown": "^1.2.2"
+    "marked": "^0.7.0",
+    "react": "^16.8.6"
   },
   "devDependencies": {
     "@babel/core": "^7.5.5",

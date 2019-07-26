@@ -1,6 +1,6 @@
-import React from 'react'
-import snarkdown from 'snarkdown'
+import React from 'react';
+import marked from 'marked';
 export const JSXDown = function({ mdText }) {
-    const transformedHTML = snarkdown(mdText);
+    const transformedHTML = marked(mdText);
     return (<div dangerouslySetInnerHTML={{__html: transformedHTML}} />)
 }
