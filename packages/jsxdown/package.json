@@ -28,10 +28,7 @@
     "url": "https://github.com/KsRyY/JSXDown/issues"
   },
   "dependencies": {
-    "h2x-core": "^1.1.1",
-    "h2x-plugin-jsx": "^1.2.0",
     "react": "^16.8.6",
-    "react-jsx-parser": "^1.19.1",
     "snarkdown": "^1.2.2"
   },
   "devDependencies": {
