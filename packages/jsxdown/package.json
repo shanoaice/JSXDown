@@ -33,5 +33,19 @@
     "react": "^16.8.6",
     "react-jsx-parser": "^1.19.1",
     "snarkdown": "^1.2.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/plugin-transform-react-jsx": "^7.3.0",
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.2.0",
+    "rollup": "^1.17.0",
+    "rollup-plugin-babel": "^4.3.3",
+    "rollup-plugin-commonjs": "^10.0.1",
+    "rollup-plugin-node-resolve": "^5.2.0",
+    "rollup-plugin-terser": "^5.1.1"
+  },
+  "peerDependencies": {
+    "react-dom": "16.8.6"
   }
 }
