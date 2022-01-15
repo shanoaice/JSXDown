@@ -28,7 +28,7 @@
     "url": "https://github.com/KsRyY/JSXDown/issues"
   },
   "dependencies": {
-    "marked": "^0.7.0",
+    "marked": "^4.0.10",
     "react": "^16.8.6"
   },
   "devDependencies": {
